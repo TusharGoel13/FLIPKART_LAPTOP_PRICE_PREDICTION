@@ -6,6 +6,8 @@ This interactive webapp, powered by streamlit, provides you with a seamless expe
 
 With this webapp, you can effortlessly create various plots and charts to explore and analyze the dataset, with the added flexibility of choosing your desired X-axis and Y-axis for visualization. This empowers you to gain insights and make informed decisions based on the data at hand.
 
+Streamlit link : https://tushargoel13-flipkart-laptop-price-prediction-home-qhndn6.streamlit.app/
+
 ## Attributes
 💻 BRAND: The brand name of the laptop
 
